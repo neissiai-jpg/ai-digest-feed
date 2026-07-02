@@ -19,5 +19,12 @@
       <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-01.mp3" length="12586080" type="audio/mpeg" />
       <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-01.mp3</guid>
     </item>
+    <item>
+      <title>AI Digest — June 30, 2026</title>
+      <description>Today's top AI stories: White House lifts export control on Anthropic that froze its most advanced models | CNN Business, The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models, Anthropic to restoring access to Claude Fable 5 and Mythos 5 from tomorrow, and more.</description>
+      <pubDate>Thu, 02 Jul 2026 13:34:49 +0000</pubDate>
+      <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-06-30.mp3" length="11764800" type="audio/mpeg" />
+      <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-06-30.mp3</guid>
+    </item>
   </channel>
 </rss>
