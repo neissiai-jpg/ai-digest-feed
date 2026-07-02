@@ -19,12 +19,5 @@
       <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-01.mp3" length="12586080" type="audio/mpeg" />
       <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-01.mp3</guid>
     </item>
-    <item>
-      <title>Local verification test (safe to ignore/delete)</title>
-      <description>Testing gh auth setup-git fix locally before re-running CI.</description>
-      <pubDate>Thu, 02 Jul 2026 13:26:54 +0000</pubDate>
-      <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/_local-test.mp3" length="51200" type="audio/mpeg" />
-      <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/_local-test.mp3</guid>
-    </item>
   </channel>
 </rss>
