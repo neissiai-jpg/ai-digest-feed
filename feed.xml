@@ -28,7 +28,7 @@
     </item>
     <itunes:author>Daily AI News Digest</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://neissiai-jpg.github.io/ai-digest-feed/artwork.jpg" />
+    <itunes:image href="https://neissiai-jpg.github.io/ai-digest-feed/artwork.jpg?v=2" />
     <itunes:category text="Technology" />
   </channel>
 </rss>
