@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Daily AI News Digest</title>
+    <link />
+    <description>Daily AI industry news, summarized and narrated.</description>
+    <language>en-us</language>
+    <item>
+      <title>AI Digest — July 2, 2026</title>
+      <description>Today's top AI stories: a new OpenAI model, Anthropic's safety report, DeepMind robotics research, and more.</description>
+      <pubDate>Thu, 02 Jul 2026 11:20:49 +0000</pubDate>
+      <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-02.mp3" length="12661440" type="audio/mpeg" />
+      <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-02.mp3</guid>
+    </item>
+  </channel>
+</rss>
