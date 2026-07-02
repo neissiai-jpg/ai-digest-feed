@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Daily AI News Digest</title>
-    <link />
+    <link>https://neissiai-jpg.github.io/ai-digest-feed/</link>
     <description>Daily AI industry news, summarized and narrated.</description>
     <language>en-us</language>
     <item>
@@ -26,5 +26,9 @@
       <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-06-30.mp3" length="11764800" type="audio/mpeg" />
       <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-06-30.mp3</guid>
     </item>
+    <itunes:author>Daily AI News Digest</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://neissiai-jpg.github.io/ai-digest-feed/artwork.jpg" />
+    <itunes:category text="Technology" />
   </channel>
 </rss>
