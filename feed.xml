@@ -12,5 +12,12 @@
       <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-02.mp3" length="12661440" type="audio/mpeg" />
       <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-02.mp3</guid>
     </item>
+    <item>
+      <title>AI Digest — July 01, 2026</title>
+      <description>Today's top AI stories: Meta planning cloud business to sell AI computing power: Sources, US lifts export controls on Anthropic AI models, boosting market prospects, White House accelerates plans for AI model standards with new executive order, and more.</description>
+      <pubDate>Thu, 02 Jul 2026 12:20:05 +0000</pubDate>
+      <enclosure url="https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-01.mp3" length="12586080" type="audio/mpeg" />
+      <guid isPermaLink="true">https://neissiai-jpg.github.io/ai-digest-feed/episodes/2026-07-01.mp3</guid>
+    </item>
   </channel>
 </rss>
